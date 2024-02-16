@@ -18,18 +18,18 @@ Objectives:
 
 Documentation: 
 
-SEPHORA Skincare Treatments Analysis.pdf
+  1. SEPHORA Skincare Treatments Analysis.pdf
 
 Data:      
 
-Sephora Scrape (original dirty data).xlsx
-SephoraSkincare.xlsx
+  1. Sephora Scrape (original dirty data).xlsx
+  2. SephoraSkincare.xlsx
 
 Presentation:
 
-Sephora Skincare PPT.pdf
+  1. Sephora Skincare PPT.pdf
 
 Code:
 
-Sephora_ProdLinks.py
-SephoraScraper.py
+  1. Sephora_ProdLinks.py
+  2. SephoraScraper.py
