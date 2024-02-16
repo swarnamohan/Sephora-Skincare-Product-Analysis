@@ -9,6 +9,6 @@ Furthermore, the CFO seeks insights into the popularity of specific skincare con
 
 Objectives:
 
-Exploratory Price Analysis 
-Brand Performances 
+Exploratory Price Analysis, 
+Brand Performances, 
 Market Gaps and Opportunities with Product Solutions
