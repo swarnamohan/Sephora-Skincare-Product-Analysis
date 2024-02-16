@@ -14,3 +14,22 @@ Objectives:
   2. Brand Performances, 
 
   3. Market Gaps and Opportunities with Product Solutions
+
+
+Documentation: 
+
+SEPHORA Skincare Treatments Analysis.pdf
+
+Data:      
+
+Sephora Scrape (original dirty data).xlsx
+SephoraSkincare.xlsx
+
+Presentation:
+
+Sephora Skincare PPT.pdf
+
+Code:
+
+Sephora_ProdLinks.py
+SephoraScraper.py
