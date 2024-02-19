@@ -1,5 +1,5 @@
 # Sephora-Skincare-Product-Analysis
-Data Analysis of skincare treatment products from Sephora // Python, Excel, SQL, Tableau
+Data Analysis of skincare treatment products from Sephora // Python, Excel, SQL, Tableau, PPT
 
 
 The Sephora CFO is conducting an evaluation of Sephora's skincare treatment product lineup, aiming to optimize performance and customer satisfaction. This entails a price analysis across various brands and identifying underperforming brands for removal, making space for either already successful brands or newcomers.
